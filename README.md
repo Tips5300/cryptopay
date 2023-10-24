@@ -6,9 +6,9 @@
 
 ## Screenshots
 
-1. ![Screenshot 1](<insert screenshot link 1>)
-2. ![Screenshot 2](<insert screenshot link 2>)
-3. ![Screenshot 3](<insert screenshot link 3>)
+1. ![Screenshot 1](chrome_screenshot_Oct 24, 2023 7_59_39 PM GMT+06_00.png)
+2. ![Screenshot 2](chrome_screenshot_Oct 24, 2023 8_00_16 PM GMT+06_00.png)
+3. ![Screenshot 3](chrome_screenshot_Oct 24, 2023 8_02_00 PM GMT+06_00.png)
 
 ## Price
 
