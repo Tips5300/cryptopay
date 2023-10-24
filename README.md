@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[Watch Demo Video](<insert link here>)
+[Watch Demo Video](lv_0_20231024194402.mp4)
 
 ## Screenshots
 
