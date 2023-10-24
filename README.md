@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[Watch Demo Video](lv_0_20231024194402.mp4)
+[Watch Demo Video]([lv_0_20231024194402.mp4](https://raw.githubusercontent.com/Tips5300/cryptopay/main/lv_0_20231024194402.mp4))
 
 ## Details 
 
