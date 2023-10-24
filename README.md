@@ -13,6 +13,10 @@
 - **Included Laravel integration code**
 - **Price:** $50
 
+## Supported Currencies
+
+- **Binance Listed all Networks and token**
+
 ## Contact
 
 For more information, contact [Md Ashikur Rahman](https://www.facebook.com/mdashikurrahman5300).
@@ -21,4 +25,4 @@ For more information, contact [Md Ashikur Rahman](https://www.facebook.com/mdash
 
 1. ![Screenshot 1](https://raw.githubusercontent.com/Tips5300/cryptopay/main/chrome_screenshot_Oct%2024%2C%202023%207_59_39%20PM%20GMT%2B06_00.png)
 2. ![Screenshot 2](https://raw.githubusercontent.com/Tips5300/cryptopay/main/chrome_screenshot_Oct%2024%2C%202023%208_00_16%20PM%20GMT%2B06_00.png)
-3. ![Screenshot 3](https://raw.githubusercontent.com/Tips5300/cryptopay/main/chrome_screenshot_Oct%2024%2C%202023%208_02_00%20PM%20GMT%2B06_00.png)
+3. ![Screenshot `3](https://raw.githubusercontent.com/Tips5300/cryptopay/main/chrome_screenshot_Oct%2024%2C%202023%208_02_00%20PM%20GMT%2B06_00.png)```
