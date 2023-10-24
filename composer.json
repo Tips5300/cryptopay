@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kleninm/binance-api": "^1.0",
+        "catfan/medoo": "^2.1"
+    }
+}
