@@ -9,6 +9,7 @@ use Medoo\Medoo;
 use \BinanceApi\Binance;
 require_once "src/config.php";
 if (isset($_POST["order_number"]))
+
 {
   require "src/createinvoice.php";
 } elseif (isset($_GET["in"])){
